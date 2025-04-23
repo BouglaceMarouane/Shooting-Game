@@ -16,7 +16,12 @@ This is a simple 2D shooting game built using **Pygame**. The player controls a 
 
 ## **📷 Screenshots**
 ### Gameplay
-![Gameplay Screenshot](path/to/screenshot.png)
+
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Shooting-Game/blob/71eea58198a3936afd0dbaee3cbf90e16e8b5b58/images/display.png" alt="image alt"/>
+  <br>
+    <em>This is the main gameplay interface of the Shooting Game. It features a clean and simple design where the player controls a spaceship to shoot bullets at incoming enemies. The screen displays the player at the bottom, enemies descending from the top, and bullets fired by the player. The objective is to destroy as many enemies as possible while avoiding collisions.</em>
+</p><br>
 
 ---
 
