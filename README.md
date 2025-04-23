@@ -60,3 +60,21 @@ This is a simple 2D shooting game built using **Pygame**. The player controls a 
 - **Avoid** enemy collisions and **destroy** as many enemies as possible.
 
 ---
+
+## **🤝 Contributing :**
+
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
+
+---
+
+## **📬 Contact :**
+
+- **Email**: bouglacemarouane@gmail.com
+- **GitHub**: [Bouglace Marouane](https://github.com/BouglaceMarouane)
+- **LinkedIn**: [Marouane Bouglace](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
+
+---
+
+## **⭐ Support**
+
+If you like this project, please give it a ⭐ on GitHub. Thank you for your support! 🚀 ```
