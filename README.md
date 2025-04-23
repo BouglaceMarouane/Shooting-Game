@@ -21,8 +21,8 @@ This is a simple 2D shooting game built using **Pygame**. The player controls a 
 ---
 
 ## **🛠️ Technologies Used**
-- **[Pygame](https://www.pygame.org/)**: A Python library for game development.
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange) ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-3.8.1-green) ![Pyttsx3](https://img.shields.io/badge/Pyttsx3-TTS-yellow)
 ---
 
 ## **⚙️ Installation Steps**
