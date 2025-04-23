@@ -22,10 +22,26 @@ This is a simple 2D shooting game built using **Pygame**. The player controls a 
 
 ## **🛠️ Technologies Used**
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)  ![Pygame](https://img.shields.io/badge/pygame-2.6.0-yellow)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/pygame-2.6.0-yellow)
 ---
 
 ## **⚙️ Installation Steps**
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/shooting-game.git
+
+1. **📥 Clone the repository** to your machine or download the ZIP files:
+   ```
+   git clone https://github.com/<your-username>/shooting-game.git
+   ```
+2. **📂 Navigate to the project folder** and open it in Visual Studio Code:
+   ```
+   cd <repo-name> && code .
+   ```
+
+3. **📦 Install the dependencies**:
+   ```
+   npm install
+   ```
+
+4. **🌐 Start a local server** to view the project:
+   ```
+   npm run dev
+   ```
