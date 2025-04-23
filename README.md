@@ -55,8 +55,8 @@ This is a simple 2D shooting game built using **Pygame**. The player controls a 
 
 ## **🎮 How to Play :**
 
-- Use the left and right arrow keys to move the player.
-- Press the spacebar to shoot bullets.
-- Avoid enemy collisions and destroy as many enemies as possible.
+- Use the **left** and **right** arrow keys to move the player.
+- Press the **spacebar** to shoot bullets.
+- **Avoid** enemy collisions and **destroy** as many enemies as possible.
 
 ---
