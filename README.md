@@ -1,7 +1,5 @@
 # 🎮 Shooting Game
 
-
-
 ## **✨ Project Description**
 This is a simple 2D shooting game built using **Pygame**. The player controls a spaceship that can move left and right and shoot bullets to destroy incoming enemies. The game ends when an enemy collides with the player.
 
